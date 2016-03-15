@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\adu49\\AndroidStudioProjects\\AutoSlider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\adu49\\AndroidStudioProjects\\AutoSlider\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "/home/abhishek/AndroidStudioProjects/AutoSlider/C:\\Users\\adu49\\AndroidStudioProjects\\AutoSlider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "/home/abhishek/AndroidStudioProjects/AutoSlider/C:\\Users\\adu49\\AndroidStudioProjects\\AutoSlider\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/abhishek/AndroidStudioProjects/AutoSlider/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/home/abhishek/AndroidStudioProjects/AutoSlider/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }
 ]

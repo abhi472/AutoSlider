@@ -25,10 +25,6 @@ public final class R {
         public static final int design_fab_out=0x7f05000d;
         public static final int design_snackbar_in=0x7f05000e;
         public static final int design_snackbar_out=0x7f05000f;
-        public static final int left_in=0x7f050010;
-        public static final int left_out=0x7f050011;
-        public static final int right_in=0x7f050012;
-        public static final int right_out=0x7f050013;
     }
     public static final class attr {
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
@@ -2300,7 +2296,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f0c0057;
         public static final int action_mode_bar_stub=0x7f0c0056;
         public static final int action_mode_close_button=0x7f0c003c;
-        public static final int action_settings=0x7f0c0086;
+        public static final int action_settings=0x7f0c0084;
         public static final int activity_chooser_view_content=0x7f0c003d;
         public static final int alertTitle=0x7f0c0049;
         public static final int always=0x7f0c0033;
@@ -2341,7 +2337,6 @@ containing a value of this type.
         public static final int fill_horizontal=0x7f0c002f;
         public static final int fill_vertical=0x7f0c0022;
         public static final int fixed=0x7f0c0038;
-        public static final int flipper=0x7f0c0084;
         public static final int home=0x7f0c0004;
         public static final int homeAsUp=0x7f0c000f;
         public static final int iMage=0x7f0c006e;
@@ -2404,7 +2399,6 @@ containing a value of this type.
         public static final int start=0x7f0c0025;
         public static final int status_bar_latest_event_content=0x7f0c0079;
         public static final int submit_area=0x7f0c0065;
-        public static final int tabLayout=0x7f0c0085;
         public static final int tabMode=0x7f0c000d;
         public static final int tab_viewpager=0x7f0c006c;
         public static final int text=0x7f0c0081;
@@ -2482,7 +2476,6 @@ containing a value of this type.
         public static final int select_dialog_multichoice_material=0x7f040030;
         public static final int select_dialog_singlechoice_material=0x7f040031;
         public static final int support_simple_spinner_dropdown_item=0x7f040032;
-        public static final int tab_layout=0x7f040033;
     }
     public static final class menu {
         public static final int menu_first_page=0x7f0d0000;

@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\adu49\\AndroidStudioProjects\\AutoSlider\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_first_page.xml",
-        "source": "C:\\Users\\adu49\\AndroidStudioProjects\\AutoSlider\\app\\src\\main\\res\\menu\\menu_first_page.xml"
+        "merged": "/home/abhishek/AndroidStudioProjects/AutoSlider/app/build/intermediates/res/merged/debug/menu/menu_first_page.xml",
+        "source": "/home/abhishek/AndroidStudioProjects/AutoSlider/app/src/main/res/menu/menu_first_page.xml"
+    },
+    {
+        "merged": "/home/abhishek/AndroidStudioProjects/AutoSlider/C:\\Users\\adu49\\AndroidStudioProjects\\AutoSlider\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_first_page.xml",
+        "source": "/home/abhishek/AndroidStudioProjects/AutoSlider/C:\\Users\\adu49\\AndroidStudioProjects\\AutoSlider\\app\\src\\main\\res\\menu\\menu_first_page.xml"
     }
 ]
